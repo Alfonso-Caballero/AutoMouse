@@ -1,2 +1,2 @@
 # AutoMouse
-Program that moves mouse pointer
+This program automatically moves the mouse pointer and presses the Windows key to prevent the screen from automatically turning off. It has a very simple interface created with the Tkinter and Customtkinter libraries, allowing you to control the speed at which the pointer moves. It also provides the option to set a time limit to automatically stop the movement. To stop the program at any time, simply press the 'S' key on the keyboard
